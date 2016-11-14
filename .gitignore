@@ -1,6 +1,17 @@
 /vendor
 /node_modules
 /public/storage
+public/css/
+public/uploads/
+public/bower/
 Homestead.yaml
 Homestead.json
+
+config/jwt.php
 .env
+config/mail.php
+
+_ide_helper.php
+.idea/
+npm-debug.log
+feaw.tt
